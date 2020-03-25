@@ -1,6 +1,6 @@
-#Python
+# Python
 
-##Actividad
+## Actividad
 
 1. ¿Cuál es la diferencia entre los números flotantes y los números reales?
 
